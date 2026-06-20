@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Kenan
+# 👋 Hi, I'm Kane
 
-💻 Senior Software Developer | Laravel Specialist | Systems & Automation Enthusiast  
+💻 Software Engineer | Laravel Specialist | Systems & Automation Enthusiast  
 
 I design and build **scalable backend systems**, automate complex workflows, and solve real-world production problems.  
 Most of my work lives where **performance, reliability, and business logic intersect**.
